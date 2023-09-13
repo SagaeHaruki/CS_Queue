@@ -1,0 +1,12 @@
+C:\Users\Chtholly\Documents\Tutorial\CashierQueue\bin\Debug\CashierQueue.exe.config
+C:\Users\Chtholly\Documents\Tutorial\CashierQueue\bin\Debug\CashierQueue.exe
+C:\Users\Chtholly\Documents\Tutorial\CashierQueue\bin\Debug\CashierQueue.pdb
+C:\Users\Chtholly\Documents\Tutorial\CashierQueue\obj\Debug\CashierQueue.csproj.AssemblyReference.cache
+C:\Users\Chtholly\Documents\Tutorial\CashierQueue\obj\Debug\CashierQueue.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chtholly\Documents\Tutorial\CashierQueue\obj\Debug\CashierQueue.Form1.resources
+C:\Users\Chtholly\Documents\Tutorial\CashierQueue\obj\Debug\CashierQueue.CashierWindowQueue.resources
+C:\Users\Chtholly\Documents\Tutorial\CashierQueue\obj\Debug\CashierQueue.Properties.Resources.resources
+C:\Users\Chtholly\Documents\Tutorial\CashierQueue\obj\Debug\CashierQueue.csproj.GenerateResource.cache
+C:\Users\Chtholly\Documents\Tutorial\CashierQueue\obj\Debug\CashierQueue.csproj.CoreCompileInputs.cache
+C:\Users\Chtholly\Documents\Tutorial\CashierQueue\obj\Debug\CashierQueue.exe
+C:\Users\Chtholly\Documents\Tutorial\CashierQueue\obj\Debug\CashierQueue.pdb
